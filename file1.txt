@@ -1,2 +1,10 @@
 Step 1: created by ALISA on FEB 4 at 3:50
+<<<<<<< HEAD
 Step 4: line added by ALISA on FEB 4 at 3:54
+=======
+<<<<<<< HEAD
+Step 4: line added by Sophie on Feb 4 at 3:53
+=======
+Step 3: added by ALISA on FEB 4 at 3:52
+>>>>>>> 2de4ed1747b19c3b47454e56c8364d4b35bc7f16
+>>>>>>> 21d1993d1a9f4989a45213cb519f0a68cdf2497b
